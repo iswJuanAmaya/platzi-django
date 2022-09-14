@@ -1,0 +1,16 @@
+li a{
+    color : white;
+}
+li a:link, a:visited, a:focus {
+    border-radius: 10%;
+    background: gray;
+}
+
+li  a:hover {
+    background: orange;
+}
+
+li  a:active {
+    background: red;
+    color: white;
+}
